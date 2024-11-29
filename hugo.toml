@@ -5,4 +5,32 @@ theme = 'beautifulhugo'
 sectionPagesMenu = 'main'
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
+[menus]
+  [[menus.main]]
+    name = 'Products'
+    pageRef = '/products'
+    weight = 10
+  [[menus.main]]
+    name = 'content'
+    pageRef = '/content'
+    parent = 'Products'
+    weight = 1
+  [[menus.main]]
+    name = 'Software'
+    pageRef = '/products/software'
+    parent = 'Products'
+    weight = 2
+  [[menus.main]]
+    name = 'Services'
+    pageRef = '/services'
+    weight = 20
+  [[menus.main]]
+    name = 'Hugo'
+    pre = '<i class="fa fa-heart"></i>'
+    url = 'https://gohugo.io/'
+    weight = 30
+    [menus.main.params]
+      rel = 'external'
+
+
 
