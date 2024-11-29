@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/page/</loc>
+    <lastmod>2024-10-21T23:14:02+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/content/</loc>
+    <lastmod>2024-10-21T23:14:02+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/hola/</loc>
+    <lastmod>2024-10-21T23:09:20+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/about/</loc>
+    <lastmod>2024-10-21T23:09:04+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/page/</loc>
+    <lastmod>2024-10-21T23:09:04+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/software/</loc>
+    <lastmod>2024-10-21T23:09:04+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/posts/my-first-post/</loc>
+    <lastmod>2024-10-21T23:06:01+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/posts/</loc>
+    <lastmod>2024-10-21T23:06:01+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/testsub/</loc>
+  </url><url>
+    <loc>http://localhost:1313/page/testsub/sub2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/page/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/page/tags/</loc>
+  </url>
+</urlset>
