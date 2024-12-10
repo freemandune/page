@@ -3,7 +3,7 @@ draft: false
 menu:
   main:
     parent: 'extras'
-    weight: 20
+    weight: 30
     name: 'sub3'
 ---
 
